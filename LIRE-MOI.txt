@@ -1,0 +1,27 @@
+CARIBI GROUP — VERSION HTML / CSS
+
+1. Décompressez le ZIP.
+2. Dans Visual Studio Code, choisissez Fichier > Ouvrir un dossier,
+   puis sélectionnez le dossier caribi-group.
+3. Ouvrez index.html dans votre navigateur par double-clic.
+   Vous pouvez également utiliser l’extension Live Server de VS Code :
+   clic droit sur index.html > Open with Live Server.
+
+FICHIERS À MODIFIER
+index.html : accueil
+biens.html : sélection de biens
+agence.html : agence
+contact.html : formulaire de contact
+villa.html, appartement.html, penthouse.html : fiches illustratives
+styles.css : apparence du site, styles ordinaires sans compilation
+script.js : recherche, filtres, menu mobile, favoris et contact WhatsApp
+assets/ : photos, logo et polices locales
+
+Aucune installation de Node, React ou d’un outil de compilation n’est nécessaire.
+Le site est une copie autonome de la présentation actuelle, pas le projet React.
+Les modifications faites dans ce dossier ne se synchronisent pas vers Lovable.
+Les biens restent des inspirations, pas des annonces immobilières vérifiées.
+Le formulaire ouvre un message WhatsApp prérempli ; il n’envoie pas de message
+sans votre confirmation dans WhatsApp. Les liens WhatsApp, e-mail et Instagram
+nécessitent une connexion et les applications ou services correspondants.
+Les favoris sont conservés seulement pendant l’affichage de la page.
